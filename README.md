@@ -1,1 +1,1 @@
-Thi is Alvins first git project!!
+This is Alvins first git project!!
